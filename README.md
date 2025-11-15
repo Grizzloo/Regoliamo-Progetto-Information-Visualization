@@ -102,4 +102,39 @@ Se il bambino non raggiunge 10:
 - vignetta con messaggio di errore  
 - scelta: riprova senza aiuti / riprova con aiuti  
 
+---
+
+## 🎥 Demo Video
+
+Puoi visionare la demo ufficiale del progetto cliccando qui:
+
+👉 **https://github.com/Grizzloo/Regoliamo-Progetto-Information-Visualization/blob/main/DemoProgetto.mp4**
+
+GitHub aprirà automaticamente il player video integrato.
+
+---
+
+## 📑 Presentazione del Progetto
+
+La presentazione PowerPoint è disponibile al link seguente:
+
+👉 **https://github.com/Grizzloo/Regoliamo-Progetto-Information-Visualization/blob/main/RegoliAMO%20-%20Progetto%20Information%20Visualization%20Coralluzzo-Pascale.pptx**
+
+---
+
+## 👤 Autori
+
+**Gabriele Vittorio Coralluzzo**  
+Matricola: 0522501784  
+LinkedIn: https://www.linkedin.com/in/gabriele-vittorio-coralluzzo-891248228/
+
+**Andrea Pascale**  
+Matricola: 0522501610
+
+---
+
+## 🙏 Ringraziamenti
+
+Grazie per aver consultato il progetto RegoliAMO!  
+
 <video src="DemoProgetto.mp4" controls width="600"></video>
