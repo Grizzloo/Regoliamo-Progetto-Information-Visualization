@@ -110,8 +110,6 @@ Puoi visionare la demo ufficiale del progetto cliccando qui:
 
 👉 **https://github.com/Grizzloo/Regoliamo-Progetto-Information-Visualization/blob/main/DemoProgetto.mp4**
 
-GitHub aprirà automaticamente il player video integrato.
-
 ---
 
 ## 📑 Presentazione del Progetto
