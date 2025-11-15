@@ -102,3 +102,4 @@ Se il bambino non raggiunge 10:
 - vignetta con messaggio di errore  
 - scelta: riprova senza aiuti / riprova con aiuti  
 
+<video src="DemoProgetto.mp4" controls width="600"></video>
